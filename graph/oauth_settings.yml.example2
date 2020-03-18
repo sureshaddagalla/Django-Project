@@ -1,0 +1,7 @@
+app_id: "d62a559c-dfcc-4e57-a4d4-230802498385"
+app_secret: "GVB]ANeu_8SYt=LvzbaQQRdzU7hkz7]1"
+redirect: "http://localhost:8000/tutorial/callback"
+scopes: "openid profile offline_access user.read calendars.read"
+authority: "https://login.microsoftonline.com/common"
+authorize_endpoint: "/oauth2/v2.0/authorize"
+token_endpoint: "/oauth2/v2.0/token"
